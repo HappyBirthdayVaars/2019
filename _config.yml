@@ -90,7 +90,7 @@ google_analytics:
 google_maps_api_key:
 
 # Number of posts displayed on blog page
-paginate:           10
+paginate:           5
 
 # Path to post content assets directory i.e post images, pdfs etc
 post_assets:        /assets/posts/
