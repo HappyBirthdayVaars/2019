@@ -1,8 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-05T17:16:40+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Happy Birthday</title><subtitle>Vaaridhi Mathur</subtitle><author><name>Kavish</name></author><entry><title type="html">Happy Birthday - Kavish!</title><link href="http://localhost:4000/kavish/" rel="alternate" type="text/html" title="Happy Birthday - Kavish!" /><published>2019-05-05T00:00:00+05:30</published><updated>2019-05-05T00:00:00+05:30</updated><id>http://localhost:4000/kavish</id><content type="html" xml:base="http://localhost:4000/kavish/">&lt;p&gt;It’s your birthday! YAY!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-05T23:08:55+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Happy Birthday</title><subtitle>Vaaridhi Mathur</subtitle><author><name>Club ka pukar</name></author><entry><title type="html">Happy Birthday! - Club ka pukar</title><link href="http://localhost:4000/club-ka-pukar/" rel="alternate" type="text/html" title="Happy Birthday! - Club ka pukar" /><published>2019-05-05T00:00:00+05:30</published><updated>2019-05-05T00:00:00+05:30</updated><id>http://localhost:4000/club-ka-pukar</id><content type="html" xml:base="http://localhost:4000/club-ka-pukar/">&lt;h2 id=&quot;happy-birthday&quot;&gt;Happy Birthday!&lt;/h2&gt;
+
+&lt;figure class=&quot;wide&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts//clubkapukar/2.jpeg&quot; /&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Tamil twist&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts//clubkapukar/3.jpeg&quot; /&gt;
+    &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;Always got kingfisher on my mind&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>Club ka pukar</name></author><summary type="html">Happy Birthday!</summary></entry><entry><title type="html">Happy Birthday! - Kavish</title><link href="http://localhost:4000/kavish/" rel="alternate" type="text/html" title="Happy Birthday! - Kavish" /><published>2019-05-05T00:00:00+05:30</published><updated>2019-05-05T00:00:00+05:30</updated><id>http://localhost:4000/kavish</id><content type="html" xml:base="http://localhost:4000/kavish/">&lt;p&gt;It’s your birthday! YAY!&lt;/p&gt;
 &lt;h2 id=&quot;happy-birthday&quot;&gt;Happy Birthday!&lt;/h2&gt;
 
 &lt;figure class=&quot;&quot;&gt;
-    &lt;img src=&quot;http://localhost:4000/assets/posts//kavish/FeelsBirthdayMan.jpg&quot; alt=&quot;Alt for image&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts//kavish/FeelsBirthdayMan.jpg&quot; alt=&quot;FeelsBirthdayMan&quot; /&gt;
     &lt;figcaption data-uk-grid=&quot;&quot; class=&quot;uk-flex-right&quot;&gt;&lt;span class=&quot;uk-width-auto&quot;&gt;FeelsBirthdayMan&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
