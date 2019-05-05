@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              art_vaars
+title:              Happy Birthday
 description:        Vaaridhi Mathur
 
 # Site subpath, e.g. /blog
@@ -19,21 +19,37 @@ url:                "https://memoir.jekyll.plus"
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          Memoir      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo_text:          Happy Birthday      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
     name:           Vaaridhi Mathur
-    bio:            20//Indian//🐙 art & photography page
-    email:          mathur.vaaridhi@gmail.com
+    bio:            21//Indian//🐙 art & photography
+    # email:          mathur.vaaridhi@gmail.com
     # website:        http://somewebsite.com
-    #facebook:       https://www.facebook.com/asa.zallesmilner
+    # facebook:       https://www.facebook.com/asa.zallesmilner
     # flickr:         https://flickr.com/
     # dribbble:       https://dribbble.com/
     # github:         https://github.com/
     # googleplus:     https://plus.google.com/
-    instagram:      https://www.instagram.com/art_vaars/
-    linkedin:       https://in.linkedin.com/in/vaaridhi-mathur-595b23165
+    instagram:      https://www.instagram.com/aqua.vaars/
+    # linkedin:       https://in.linkedin.com/in/vaaridhi-mathur-595b23165
+    # pinterest:      https://www.pinterest.com/
+    # twitter:        https://twitter.com/
+    # vimeo:          https://vimeo.com/
+    # youtube:        https://www.youtube.com/
+
+    name:           Kavish
+    # bio:            21//Indian//🐙 art & photography
+    # email:          mathur.vaaridhi@gmail.com
+    # website:        http://somewebsite.com
+    # facebook:       https://www.facebook.com/asa.zallesmilner
+    # flickr:         https://flickr.com/
+    # dribbble:       https://dribbble.com/
+    # github:         https://github.com/
+    # googleplus:     https://plus.google.com/
+    # instagram:      https://www.instagram.com/aqua.vaars/
+    # linkedin:       https://in.linkedin.com/in/vaaridhi-mathur-595b23165
     # pinterest:      https://www.pinterest.com/
     # twitter:        https://twitter.com/
     # vimeo:          https://vimeo.com/
@@ -57,7 +73,7 @@ footer:
     image:          footer.jpg  # upload your header image to /assets/posts/ folder
     align:          center      #top, center or bottom
     text:           light       # light or dark
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Made by a <a href="http://kavishhukmani.me/">human</a> somewhere on the planet earth.
 
 # Post settings
 post:
@@ -74,7 +90,7 @@ google_analytics:
 google_maps_api_key:
 
 # Number of posts displayed on blog page
-paginate:           5
+paginate:           10
 
 # Path to post content assets directory i.e post images, pdfs etc
 post_assets:        /assets/posts/

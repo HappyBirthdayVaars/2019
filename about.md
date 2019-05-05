@@ -4,7 +4,7 @@ title: Vaaridhi Mathur
 subtitle: Artist
 permalink: /about/
 header:
-    image: https://source.unsplash.com/DMVD9RkZIwQ.jpg
+    image: /vaars/4_1.jpg
     text: light
 ---
 
@@ -13,7 +13,7 @@ Mullam mattis lacinia efficitur. Nunc porta malesuada porta. Etiam tristique ves
 
 Ut malesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
 
-{% include image.html img="https://source.unsplash.com/UZtRU-lWZE4" alt="Alt for image" %}
+{% include slideshow.html gallery="vaars" style="wide" %}
 
 In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 

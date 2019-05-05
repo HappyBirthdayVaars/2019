@@ -3,13 +3,7 @@ left:
     - title: Home
       url: /
 
-    - title: About
-      url: /about/
-
 # Navbar right menu navigation links
 right:
-    - title: Categories
-      url: /categories/
-
-    - title: Contact
-      url: /contact/
+    - title: About
+      url: /about/
