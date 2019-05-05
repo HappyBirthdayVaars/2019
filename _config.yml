@@ -110,3 +110,6 @@ exclude:
 
 sass:
   style:            compressed
+
+jekyll-mentions:
+    base_url: https://github.com
